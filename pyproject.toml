@@ -1,0 +1,12 @@
+[project]
+name = "hetzner-pulumi"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pulumi>=3.171.0",
+    "pulumi-command>=1.0.5",
+    "pulumi-digitalocean>=4.45.0",
+    "pulumi-hcloud>=1.23.0",
+]

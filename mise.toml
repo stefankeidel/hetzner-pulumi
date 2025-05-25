@@ -1,0 +1,5 @@
+[tools]
+doctl = "latest"
+pulumi = "latest"
+python = "3.12"
+uv = "latest"
